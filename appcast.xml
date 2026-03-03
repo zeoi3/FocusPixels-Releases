@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>PixLog v0.0.12 更新</title>
+    <title>PixLog v0.0.13 更新</title>
     <link>https://github.com/zeoi3/PixLog-Releases/releases</link>
-    <description>PixLog 应用的v0.0.12更新</description>
+    <description>PixLog 应用的v0.0.13更新</description>
     <language>zh-CN</language>
+
+    <item>
+      <title>版本 0.0.13</title>
+      <description><![CDATA[
+        <h2>设置与列表体验优化</h2>
+        <ul>
+          <li>优化：同步设置页布局与主力应用/网址配置体验</li>
+          <li>新增：主力应用操作撤销提示（Undo Toast）</li>
+          <li>优化：列表 hover 区域与点击区域一致性</li>
+          <li>优化：部分 UI 细节与交互表现</li>
+        </ul>
+      ]]></description>
+
+      <pubDate>Wed, 04 Mar 2026 02:10:26 +0800</pubDate>
+
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.0.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+
+      <enclosure
+        url="https://github.com/zeoi3/PixLog-Releases/releases/download/v0.0.13/PixLog-v0.0.13.zip"
+        sparkle:version="13"
+        sparkle:shortVersionString="0.0.13"
+        type="application/octet-stream"
+        length="2022770"
+        sparkle:edSignature="false"
+        sparkle:sha256="f807431404bc4bf14b4e2539fff02695c6eb1f7d49a9d3d01de9c4f4d89cb17a"
+      />
+    </item>
 
     <item>
       <title>版本 0.0.12</title>
