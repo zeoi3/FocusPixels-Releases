@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>PixLog v0.0.17 更新</title>
+    <title>PixLog v0.0.18 更新</title>
     <link>https://github.com/zeoi3/PixLog-Releases/releases</link>
-    <description>PixLog 应用的v0.0.17更新</description>
+    <description>PixLog 应用的v0.0.18更新</description>
     <language>zh-CN</language>
+
+    <item>
+      <title>版本 0.0.18</title>
+      <description><![CDATA[
+        <h2>启动引导与浏览器权限优化</h2>
+        <ul>
+          <li>调整：启动三步骤引导改为只在真正首次启动时自动展示</li>
+          <li>新增：设置页加入“浏览器权限”入口，可直接打开第三步补授权</li>
+          <li>保持：浏览器权限页继续自动检测状态，但只有手动点击才会触发授权</li>
+        </ul>
+      ]]></description>
+
+      <pubDate>Mon, 23 Mar 2026 20:23:43 +0800</pubDate>
+
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.0.18</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+
+      <enclosure
+        url="https://raw.githubusercontent.com/zeoi3/PixLog-Releases/main/PixLog-v0.0.18.zip"
+        sparkle:version="18"
+        sparkle:shortVersionString="0.0.18"
+        type="application/octet-stream"
+        length="5181920"
+        sparkle:edSignature="false"
+        sparkle:sha256="1a0a0c4a1966439b10d8c21fa398b15e96eda02ba7c989b1ad483b0c0b349ea0"
+      />
+    </item>
 
     <item>
       <title>版本 0.0.17</title>
