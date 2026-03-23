@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>PixLog v0.0.18 更新</title>
-    <link>https://github.com/zeoi3/PixLog-Releases/releases</link>
-    <description>PixLog 应用的v0.0.18更新</description>
+    <title>Focus Pixels v0.0.18 更新</title>
+    <link>https://github.com/zeoi3/FocusPixels-Releases/releases</link>
+    <description>Focus Pixels 应用的 v0.0.18 更新</description>
     <language>zh-CN</language>
 
     <item>
@@ -24,13 +24,13 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
 
       <enclosure
-        url="https://raw.githubusercontent.com/zeoi3/PixLog-Releases/main/PixLog-v0.0.18.zip"
+        url="https://raw.githubusercontent.com/zeoi3/FocusPixels-Releases/main/FocusPixels-v0.0.18.zip"
         sparkle:version="18"
         sparkle:shortVersionString="0.0.18"
         type="application/octet-stream"
-        length="5181920"
+        length="5177432"
         sparkle:edSignature="false"
-        sparkle:sha256="1a0a0c4a1966439b10d8c21fa398b15e96eda02ba7c989b1ad483b0c0b349ea0"
+        sparkle:sha256="d7ecf090f58079ff8a3f4d46bb502d22b47b3667782e7101692a87982229c7c9"
       />
     </item>
 
@@ -52,7 +52,7 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
 
       <enclosure
-        url="https://github.com/zeoi3/PixLog-Releases/releases/download/v0.0.17/PixLog-v0.0.17.zip"
+        url="https://github.com/zeoi3/FocusPixels-Releases/releases/download/v0.0.17/PixLog-v0.0.17.zip"
         sparkle:version="17"
         sparkle:shortVersionString="0.0.17"
         type="application/octet-stream"
@@ -80,7 +80,7 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
 
       <enclosure
-        url="https://github.com/zeoi3/PixLog-Releases/releases/download/v0.0.16/PixLog-v0.0.16.zip"
+        url="https://github.com/zeoi3/FocusPixels-Releases/releases/download/v0.0.16/PixLog-v0.0.16.zip"
         sparkle:version="16"
         sparkle:shortVersionString="0.0.16"
         type="application/octet-stream"
@@ -110,7 +110,7 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
 
       <enclosure
-        url="https://github.com/zeoi3/PixLog-Releases/releases/download/v0.0.15/PixLog-v0.0.15.zip"
+        url="https://github.com/zeoi3/FocusPixels-Releases/releases/download/v0.0.15/PixLog-v0.0.15.zip"
         sparkle:version="15"
         sparkle:shortVersionString="0.0.15"
         type="application/octet-stream"
@@ -139,7 +139,7 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
 
       <enclosure
-        url="https://github.com/zeoi3/PixLog-Releases/releases/download/v0.0.14/PixLog-v0.0.14.zip"
+        url="https://github.com/zeoi3/FocusPixels-Releases/releases/download/v0.0.14/PixLog-v0.0.14.zip"
         sparkle:version="14"
         sparkle:shortVersionString="0.0.14"
         type="application/octet-stream"
@@ -168,7 +168,7 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
 
       <enclosure
-        url="https://github.com/zeoi3/PixLog-Releases/releases/download/v0.0.13/PixLog-v0.0.13.zip"
+        url="https://github.com/zeoi3/FocusPixels-Releases/releases/download/v0.0.13/PixLog-v0.0.13.zip"
         sparkle:version="13"
         sparkle:shortVersionString="0.0.13"
         type="application/octet-stream"
@@ -196,7 +196,7 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
 
       <enclosure
-        url="https://github.com/zeoi3/PixLog-Releases/releases/download/v0.0.12/PixLog-v0.0.12.zip"
+        url="https://github.com/zeoi3/FocusPixels-Releases/releases/download/v0.0.12/PixLog-v0.0.12.zip"
         sparkle:version="12"
         sparkle:shortVersionString="0.0.12"
         type="application/octet-stream"
@@ -224,7 +224,7 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
 
       <enclosure
-        url="https://github.com/zeoi3/PixLog-Releases/releases/download/v0.0.11/PixLog-v0.0.11.zip"
+        url="https://github.com/zeoi3/FocusPixels-Releases/releases/download/v0.0.11/PixLog-v0.0.11.zip"
         sparkle:version="11"
         sparkle:shortVersionString="0.0.11"
         type="application/octet-stream"
@@ -254,7 +254,7 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
 
       <enclosure
-        url="https://github.com/zeoi3/PixLog-Releases/releases/download/v0.0.10/PixLog-v0.0.10.zip"
+        url="https://github.com/zeoi3/FocusPixels-Releases/releases/download/v0.0.10/PixLog-v0.0.10.zip"
         sparkle:version="0.0.10"
         sparkle:shortVersionString="0.0.10"
         type="application/octet-stream"
@@ -286,7 +286,7 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
 
       <enclosure
-        url="https://github.com/zeoi3/PixLog-Releases/releases/download/v0.0.9/PixLog-v0.0.9.zip"
+        url="https://github.com/zeoi3/FocusPixels-Releases/releases/download/v0.0.9/PixLog-v0.0.9.zip"
         sparkle:version="0.0.9"
         sparkle:shortVersionString="0.0.9"
         type="application/octet-stream"
@@ -316,7 +316,7 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
 
       <enclosure
-        url="https://github.com/zeoi3/PixLog-Releases/releases/download/v0.0.8/PixLog.zip"
+        url="https://github.com/zeoi3/FocusPixels-Releases/releases/download/v0.0.8/PixLog.zip"
         type="application/octet-stream"
         length="3440000"
       />
@@ -339,7 +339,7 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
 
       <enclosure
-        url="https://github.com/zeoi3/PixLog-Releases/releases/download/v0.0.7/PixLog.zip"
+        url="https://github.com/zeoi3/FocusPixels-Releases/releases/download/v0.0.7/PixLog.zip"
         type="application/octet-stream"
         length="1648563"
       />
@@ -364,7 +364,7 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
 
       <enclosure
-        url="https://github.com/zeoi3/PixLog-Releases/releases/download/v0.0.6/PixLog.zip"
+        url="https://github.com/zeoi3/FocusPixels-Releases/releases/download/v0.0.6/PixLog.zip"
         type="application/octet-stream"
         length="1904059"
       />
@@ -387,7 +387,7 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
 
       <enclosure
-        url="https://github.com/zeoi3/PixLog-Releases/releases/download/v0.0.5/PixLog.zip"
+        url="https://github.com/zeoi3/FocusPixels-Releases/releases/download/v0.0.5/PixLog.zip"
         type="application/octet-stream"
         length="3408197"
       />
@@ -412,7 +412,7 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
 
       <enclosure
-        url="https://github.com/zeoi3/PixLog-Releases/releases/download/v0.0.4/PixLog.zip"
+        url="https://github.com/zeoi3/FocusPixels-Releases/releases/download/v0.0.4/PixLog.zip"
         type="application/octet-stream"
         length="3651834"
       />
